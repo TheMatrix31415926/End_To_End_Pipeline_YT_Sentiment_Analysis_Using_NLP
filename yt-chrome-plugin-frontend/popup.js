@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", async () => {
   const outputDiv = document.getElementById("output");
-  const API_KEY = 'AIzaSyBoD3LQX7vw6qxzInye8NunWTaMwy5mc_8'; 
+  const API_KEY = 'AIzaSyBoD3LQX7vw6qxzInye8NunWTmasy5mj_8'; 
   // const API_URL = 'http://my-elb-2062136355.us-east-1.elb.amazonaws.com:80';   
   const API_URL = 'http://localhost:5000/';
 
