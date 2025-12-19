@@ -27,7 +27,7 @@ This repository contains an end-to-end pipeline for sentiment analysis of YouTub
 
 pip install -r requirements.txt
 
-1. Data Ingestion & Preprocessing
+1. Data Ingestion & Preprocessing 
 Run the data ingestion script to fetch and preprocess data:
 2. Model Training
 Use the provided notebooks in notebooks/ for EDA and model training.
