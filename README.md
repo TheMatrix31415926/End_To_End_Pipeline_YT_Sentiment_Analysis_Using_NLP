@@ -5,7 +5,7 @@ Processing the comments or tweets and concluding the summary of emotion of peopl
 This repository contains an end-to-end pipeline for sentiment analysis of YouTube comments using Natural Language Processing (NLP). The project includes data extraction, preprocessing, model training, evaluation, and deployment components.
 ## Features
 - Data Extraction: Fetch comments from YouTube videos using the YouTube Data API.
-- Data Preprocessing: Clean and preprocess text data for analysis.
+- Data Preprocessing: Clean and preprocess text data for analysis. 
 - Model Training: Train machine learning models to classify sentiment.
 - **Model Evaluation:** Evaluate models using metrics and confusion matrices.
 - **Model Deployment:** Serve predictions via a Flask REST API.
