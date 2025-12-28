@@ -11,7 +11,7 @@ This repository contains an end-to-end pipeline for sentiment analysis of YouTub
 - **Model Deployment:** Serve predictions via a Flask REST API. 
 - **Chrome Extension:** Analyze YouTube comments directly in your browser using a custom extension.
 - **Experiment Tracking:** Track experiments and models using MLflow.
-  
+   
  
 ## Getting Started 
  
