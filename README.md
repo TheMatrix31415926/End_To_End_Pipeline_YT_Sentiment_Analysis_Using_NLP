@@ -1,6 +1,6 @@
 # YT_Sentiment_Analysis_Using_NLP
 Processing the comments or tweets and concluding the summary of emotion of people
-
+ 
 
 This repository contains an end-to-end pipeline for sentiment analysis of YouTube comments using Natural Language Processing (NLP). The project includes data extraction, preprocessing, model training, evaluation, and deployment components.
 ## Features
