@@ -13,7 +13,7 @@ This repository contains an end-to-end pipeline for sentiment analysis of YouTub
 - **Experiment Tracking:** Track experiments and models using MLflow.
       
      
-## Getting Started       
+## Getting Started        
    
 ### Prerequisites   
   
