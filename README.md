@@ -18,7 +18,7 @@ This repository contains an end-to-end pipeline for sentiment analysis of YouTub
 ### Prerequisites   
   
 - Python 3.8+
-- [YouTube Data API Key](https://console.developers.google.com/)
+- [YouTube Data API Key](https://console.developers.google.com/) 
 - [DVC](https://dvc.org/)
 - [MLflow](https://mlflow.org/)
 - Chrome browser (for extension)
