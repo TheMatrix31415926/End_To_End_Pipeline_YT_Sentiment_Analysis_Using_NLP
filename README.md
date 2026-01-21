@@ -44,7 +44,7 @@ POST /predict: Predict sentiment for a list of comments.
 POST /predict_with_timestamps: Predict sentiment with timestamps.
 POST /generate_chart: Generate sentiment charts/visualizations.
 Experiment Tracking
-MLflow is used for experiment tracking and model registry.
+MLflow is used for experiment tracking and model registry. 
 Set the tracking URI in your scripts or notebooks as needed.
 
  
