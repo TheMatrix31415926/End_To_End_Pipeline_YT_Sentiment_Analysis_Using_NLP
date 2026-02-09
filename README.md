@@ -37,7 +37,7 @@ Evaluate models using scripts in src/model/ or the provided notebooks.
 4. API Deployment
 Start the Flask API.
 5. Chrome Extension
-Load the yt-chrome-plugin-frontend/ directory as an unpacked extension in Chrome.
+Load the yt-chrome-plugin-frontend/ directory as an unpacked extension in Chrome. 
 The extension communicates with the local Flask API to analyze YouTube comments.
 API Endpoints
 POST /predict: Predict sentiment for a list of comments.
