@@ -23,7 +23,7 @@ This repository contains an end-to-end pipeline for sentiment analysis of YouTub
 - [MLflow](https://mlflow.org/)
 - Chrome browser (for extension)
  
-### Installation 
+### Installation  
      
 pip install -r requirements.txt 
 
