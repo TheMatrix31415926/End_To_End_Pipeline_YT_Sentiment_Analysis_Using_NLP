@@ -36,7 +36,7 @@ Trained models and vectorizers are saved as .pkl files.
 Evaluate models using scripts in src/model/ or the provided notebooks.
 4. API Deployment
 Start the Flask API.
-5. Chrome Extension
+5. Chrome Extension 
 Load the yt-chrome-plugin-frontend/ directory as an unpacked extension in Chrome. 
 The extension communicates with the local Flask API to analyze YouTube comments.
 API Endpoints
