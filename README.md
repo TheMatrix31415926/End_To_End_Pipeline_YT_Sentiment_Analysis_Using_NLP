@@ -22,7 +22,7 @@ This repository contains an end-to-end pipeline for sentiment analysis of YouTub
 - [DVC](https://dvc.org/)
 - [MLflow](https://mlflow.org/)
 - Chrome browser (for extension)
- 
+  
 ### Installation  
      
 pip install -r requirements.txt 
